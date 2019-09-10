@@ -1,1 +1,1 @@
-# TestPlugin
+# haveric.testplugin.TestPlugin

@@ -1,0 +1,5 @@
+name: haveric.testplugin.TestPlugin
+author: haveric
+main: haveric.testplugin.TestPlugin
+version: 1.0.0
+api-version: 1.13
